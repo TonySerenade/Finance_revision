@@ -1,0 +1,33 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache Streamlit
+.streamlit/cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration locaux
+.env
+.env.*
+
+# Fichiers d'éditeur
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Bases de données locales
+*.db
+*.sqlite
+*.sqlite3
